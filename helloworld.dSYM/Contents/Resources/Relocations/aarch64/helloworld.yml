@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/javiergutierrez/Desktop/URJC/primer curso/Algoritmo y estructura datos/helloworld'
+relocations:     []
+...
